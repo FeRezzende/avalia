@@ -1,0 +1,2 @@
+top | grep load >> /home/felipe/'Área de Trabalho'/load.txt
+

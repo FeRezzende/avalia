@@ -1,0 +1,1 @@
+top | grep cpu >> /home/felipe/'Área de Trabalho'/cpu.txt

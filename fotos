@@ -1,0 +1,6 @@
+echo digite o link
+read link
+
+cd /home/felipe/Downloads
+
+wget $link

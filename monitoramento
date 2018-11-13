@@ -1,0 +1,1 @@
+top | grep mem >> /home/felipe/Área\ de\ Trabalho/"monitoramento.txt"

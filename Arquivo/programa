@@ -1,0 +1,9 @@
+rm -r /home/felipe/Documentos/Backup/*
+
+echo ******Copiando******
+
+cp -rf * /home/felipe/Documentos/Backup
+
+echo ******Copia Finalizada******
+
+ls -l

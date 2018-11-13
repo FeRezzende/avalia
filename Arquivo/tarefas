@@ -1,0 +1,1 @@
+top | grep Tarefas >> /home/felipe/'Área de Trabalho'/tarefas.txt

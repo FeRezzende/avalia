@@ -1,0 +1,59 @@
+mkdir /home/felipe/'Área de Trabalho'/arquivos
+cd /home/felipe/'Área de Trabalho'/arquivos
+mkdir /home/felipe/'Área de Trabalho'/arquivos/pdf
+mkdir /home/felipe/'Área de Trabalho'/arquivos/fotos
+cd /home/felipe/'Área de Trabalho'/arquivos/fotos
+mkdir /home/felipe/'Área de Trabalho'/arquivos/fotos/casas
+cd /home/felipe/'Área de Trabalho'/arquivos/fotos/casas
+
+wget https://statig1.akamaized.net/bancodeimagens/8y/fy/5m/8yfy5m6q3hoq0jror74husliw.jpg
+
+wget http://www.sucessonetwork.com.br/wp-content/uploads/2017/12/carros-696x391.jpg
+
+wget https://statig0.akamaized.net/bancodeimagens/1q/wx/fz/1qwxfz4d628xd0rvjd2stl5ja.jpg
+
+wget https://www.gazetadopovo.com.br/ra/mega/Pub/GP/p4/2018/02/27/Automoveis/Imagens/Cortadas/lykan_hypersport_2_20180227125234-RWR1imITqTZ1rifGyO2vGXO-1200x800@GP-Web.jpeg
+
+wget https://img.elcomercio.pe/files/ec_article_multimedia_gallery/uploads/2017/03/30/58dca4f0a7075.jpeg
+
+cd ..
+
+mkdis /home/felipe/'Área de Trabalho'/arquivos/fotos/carros
+cd /home/felipe/'Área de Trabalho'/arquivos/fotos/carros
+
+wget https://images-cdn.impresa.pt/expresso/2017-12-07-Troia/original/mw-860
+
+wget https://s2.glbimg.com/lyPdkW_PWV6soShfeOS9L6LqYME=/smart/e.glbimg.com/og/ed/f/original/2018/09/17/casa-espaco-traco-curitiba-01.jpg
+
+wget http://www.lopes.com.br/blog/wp-content/uploads/2017/02/casas-bonitas.jpg
+
+wget https://storage0.dms.mpinteractiv.ro/media/401/341/5551/12854325/1/chameleon-house-mallorca.jpg?width=620
+
+wget http://socialclicks.co/wp-content/uploads/2018/03/modern-houses-exterior-latest-modern-houses-new-home-designs-latest-modern-homes-exterior-views-latest-modern-houses-in-the.jpg
+
+cd..
+
+mkdir /home/felipe/'Área de Trabalho'/pdf
+cd /home/felipe/'Área de Trabalho'/pdf
+mkdir /home/felipe/'Área de Trabalho'/culinaria
+cd /home/felipe/'Área de Trabalho'/culinaria
+wget http://skynahotels.com/docs/2015/12/livrodereceitas.pdf
+
+wget https://www.paodeacucar.com/img/uploads/1/910/518910.pdf
+
+mkdir /home/felipe/'Área de Trabalho'/tecnico
+cd /home/felipe/'Área de Trabalho'/tecnico
+
+wget http://ead.ifap.edu.br/netsys/public/livros/LIVRO%20MANUTEN%C3%87%C3%83O/Modulo%20I/Introducao_computacao.pdf
+
+wget http://www.adororobotica.com/RBSENAI.pdf
+
+echo Terminou....
+
+
+
+
+
+
+
+

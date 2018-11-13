@@ -1,0 +1,9 @@
+ /home/felipe/'Área de Trabalho'/Àrea2
+ /home/felipe/'Área de Trabalho'/documentos2
+ /home/felipe/'Área de Trabalho'/Download2
+ /home/felipe/'Área de Trabalho'/img2
+
+
+cp * /home/felipe/'Área de Trabalho'/baackup
+
+ls
